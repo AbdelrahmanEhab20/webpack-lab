@@ -1,0 +1,19 @@
+.info {
+  background-color: rgba(80, 223, 152, 0.822);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 70px;
+  /* color: black; */
+  color: rgb(52, 56, 59);
+  font-size: 50px;
+  line-height: 1.4;
+}
+img {
+  padding-left: 20px;
+}
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
